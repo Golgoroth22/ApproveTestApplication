@@ -1,0 +1,11 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">ApproveTestApplication</string>
+
+    <!-- Activity Main -->
+    <string name="action_coins">0</string>
+    <string name="first_button_text">REWARDED_VIDEO</string>
+    <string name="second_button_text">INTERSTITIAL</string>
+    <string name="third_button_text">NON_SKIPPABLE_VIDEO</string>
+    <string name="fourth_button_text">SIMPLE BUTTON</string>
+</resources>
